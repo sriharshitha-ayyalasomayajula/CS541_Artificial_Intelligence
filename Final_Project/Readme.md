@@ -1,6 +1,6 @@
-#CS541: Artificial Intelligence. 
+CS541: Artificial Intelligence. 
 
-#Image Captioning Using CNN and RNN. 
+Image Captioning Using CNN and RNN. 
 
 * Data Source: COCO (Common Objects in Context) image dataset. https://cocodataset.org/#download
 * Language: Python (ver 3.10)
