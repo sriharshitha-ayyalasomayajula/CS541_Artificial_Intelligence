@@ -1,10 +1,10 @@
 #CS541: Artificial Intelligence
 #Image Captioning Using CNN and RNN
 
-Data Source: COCO (Common Objects in Context) image dataset. https://cocodataset.org/#download
-Language: Python (ver 3.10)
-Platform: Jypter Notebook or Python IDLE, Terminal. https://jupyter.org/install
-Software Requirements: Mac OS or Windows 10
+* Data Source: COCO (Common Objects in Context) image dataset. https://cocodataset.org/#download
+* Language: Python (ver 3.10)
+* Platform: Jypter Notebook or Python IDLE, Terminal. https://jupyter.org/install
+* Software Requirements: Mac OS or Windows 10
 
 Steps:
 1. Download the grad_project zip file 
